@@ -1,3 +1,5 @@
+![Build Status](https://github.com/rdin777/RetoSwap-Audit/actions/workflows/test.yml/badge.svg)
+
 Markdown
 # RetoSwap Security Audit & Fixes
 
