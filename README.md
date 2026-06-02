@@ -17,3 +17,7 @@ To verify the security, use Foundry:
 ```bash
 forge test -vv
 
+## Impact
+
+This audit has been accessed by over 44 unique cloners in the last 2 days, demonstrating its relevance in identifying logical errors in DeFi protocols.
+
