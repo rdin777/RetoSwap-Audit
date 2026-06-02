@@ -12,12 +12,15 @@ The original version of the contract lacked access control for the `registerArbi
 1. The `onlyOwner` modifier was implemented to restrict access to administrative functions.
 2. A `Whitelist` was implemented for withdrawal addresses, preventing the theft of funds even if the Arbitrator role is compromised.
 
+## Impact
+
+This audit has been accessed by over 44 unique cloners in the last 2 days, demonstrating its relevance in identifying logical errors in DeFi protocols.
+
 ## Testing
 To verify the security, use Foundry:
 ```bash
 forge test -vv
 
-## Impact
 
-This audit has been accessed by over 44 unique cloners in the last 2 days, demonstrating its relevance in identifying logical errors in DeFi protocols.
+
 
